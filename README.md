@@ -14,7 +14,7 @@ python run_write_re_loss_to_txt_initial.py --gpu 0 --filePath ./flickr30k/ --mod
 --num_iter 1000 --write_path ./result
 ```
 reconstructed embeddings will be saved in "--write_path"
-## embedding-to-text
+## ▶️Embedding-to-text
 ### 1. train an E2T model for CLIP
 Following [vec2text](https://github.com/vec2text/vec2text)
 
